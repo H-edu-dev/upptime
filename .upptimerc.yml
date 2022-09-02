@@ -47,8 +47,8 @@ status-website:
   # light, dark, night or ocean
   theme: light
   navbar:
-    - title: Status
-      href: /
+    - title: Homepage
+      href: https://h-edu.cz
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
