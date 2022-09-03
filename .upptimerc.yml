@@ -15,6 +15,18 @@ sites:
     expectedStatusCodes:
       - 200
       - 404
+      
+  - name: API Next - load first chapter in book
+    url: https://h-edu.cz/content.api/book/book-a?includeChapterContentParts
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      
+  - name: API Next - load whole book
+    url: https://h-edu.cz/content.api/book/book-a/chaptersContent
+    maxResponseTime: 15000
+    expectedStatusCodes:
+      - 200
 
   - name: API Old
     url: https://api2.h-edu.cz
