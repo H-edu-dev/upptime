@@ -70,5 +70,8 @@ status-website:
     - title: Homepage
       href: https://h-edu.cz
 
+workflowSchedule:
+  uptime: "*/15 * * * *"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
