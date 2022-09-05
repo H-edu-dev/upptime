@@ -16,7 +16,7 @@ sites:
       - 200
       - 404
       
-  - name: API Next - load first chapter in book
+  - name: API Next - first chapter
     url: https://h-edu.cz/content.api/book/book-a?includeChapterContentParts
     maxResponseTime: 5000
     expectedStatusCodes:
@@ -63,10 +63,12 @@ status-website:
   # light, dark, night or ocean
   theme: light
   navbar:
-    - title: Homepage
-      href: https://h-edu.cz
+    - title: Summary
+      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Homepage
+      href: https://h-edu.cz
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
