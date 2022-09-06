@@ -17,11 +17,8 @@ on:
 jobs:
   release:
     name: Check status
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-20.04
     steps:
-      - name: Print GitHub event action
-        run: |
-          echo "${{ github.event.action }}"
       - name: Checkout
         uses: actions/checkout@v2.3.3
         with:
