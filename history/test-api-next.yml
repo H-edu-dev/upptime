@@ -1,7 +1,7 @@
 url: https://api-next-test.h-edu.cz
-status: down
-code: 502
-responseTime: 380
-lastUpdated: 2022-09-22T05:41:29.029Z
+status: up
+code: 404
+responseTime: 428
+lastUpdated: 2022-09-22T07:18:49.756Z
 startTime: Fri Sep 02 2022 14:01:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
