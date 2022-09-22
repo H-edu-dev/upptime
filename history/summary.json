@@ -112,18 +112,20 @@
     "url": "https://api-next-test.h-edu.cz",
     "icon": "https://favicons.githubusercontent.com/api-next-test.h-edu.cz",
     "slug": "test-api-next",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 446,
-    "timeDay": 905,
-    "timeWeek": 544,
-    "timeMonth": 446,
-    "timeYear": 446,
-    "dailyMinutesDown": {}
+    "time": 444,
+    "timeDay": 643,
+    "timeWeek": 524,
+    "timeMonth": 444,
+    "timeYear": 444,
+    "dailyMinutesDown": {
+      "2022-09-22": 0
+    }
   },
   {
     "name": "Test API Old",
