@@ -58,18 +58,20 @@
     "url": "https://h-edu.cz/content.api/book/book-a/chaptersContent",
     "icon": "https://icons.duckduckgo.com/ip3/h-edu.cz.ico",
     "slug": "api-next-load-whole-book",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1008,
-    "timeDay": 968,
-    "timeWeek": 1025,
-    "timeMonth": 999,
-    "timeYear": 1008,
-    "dailyMinutesDown": {}
+    "time": 1227,
+    "timeDay": 8112,
+    "timeWeek": 2804,
+    "timeMonth": 1445,
+    "timeYear": 1227,
+    "dailyMinutesDown": {
+      "2022-11-01": 0
+    }
   },
   {
     "name": "API Old",
