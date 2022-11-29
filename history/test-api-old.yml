@@ -1,7 +1,7 @@
 url: https://api2-test.h-edu.cz
-status: up
-code: 404
-responseTime: 404
-lastUpdated: 2022-11-28T23:16:58.536Z
+status: down
+code: 521
+responseTime: 326
+lastUpdated: 2022-11-29T11:26:49.720Z
 startTime: Fri Sep 02 2022 14:01:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
