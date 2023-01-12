@@ -69,9 +69,9 @@
     "url": "https://h-edu.cz/content.api/book/book-a/chaptersContent",
     "icon": "https://icons.duckduckgo.com/ip3/h-edu.cz.ico",
     "slug": "api-next-load-whole-book",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -81,6 +81,7 @@
     "timeMonth": 1072,
     "timeYear": 1138,
     "dailyMinutesDown": {
+      "2023-01-12": 0,
       "2022-12-01": 11,
       "2022-11-29": 20,
       "2022-11-01": 14
