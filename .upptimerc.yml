@@ -10,7 +10,7 @@ sites:
       - 200
 
   - name: API Next
-    url: https://api-next.h-edu.cz
+    url: https://api-next.h-edu.cz/content.api/health
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
@@ -42,7 +42,7 @@ sites:
       - 200
 
   - name: Test API Next
-    url: https://api-next-test.h-edu.cz
+    url: https://api-next-test.h-edu.cz/content.api/health
     expectedStatusCodes:
       - 200
       - 404
