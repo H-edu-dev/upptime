@@ -1,7 +1,7 @@
 url: https://test.h-edu.cz
-status: degraded
+status: up
 code: 200
-responseTime: 861
-lastUpdated: 2023-11-13T23:04:27.954Z
+responseTime: 452
+lastUpdated: 2023-11-14T14:02:08.233Z
 startTime: 2022-09-02T14:01:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
