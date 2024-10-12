@@ -1,7 +1,7 @@
 url: https://h-edu.cz/content.api/book/book-a/chaptersContent
-status: up
+status: degraded
 code: 200
-responseTime: 1148
-lastUpdated: 2024-10-11T23:04:26.942Z
+responseTime: 18564
+lastUpdated: 2024-10-12T04:22:48.773Z
 startTime: 2022-09-03T07:40:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
