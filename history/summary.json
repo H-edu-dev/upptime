@@ -11,9 +11,9 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.92%",
     "time": 861,
-    "timeDay": 823,
-    "timeWeek": 1177,
-    "timeMonth": 1085,
+    "timeDay": 794,
+    "timeWeek": 997,
+    "timeMonth": 1086,
     "timeYear": 876,
     "dailyMinutesDown": {
       "2025-08-19": 8,
@@ -22,8 +22,7 @@
       "2025-07-06": 14,
       "2025-06-11": 13,
       "2025-06-08": 15,
-      "2024-10-09": 35,
-      "2024-08-30": 17
+      "2024-10-09": 35
     }
   },
   {
@@ -38,14 +37,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 511,
-    "timeDay": 571,
-    "timeWeek": 532,
-    "timeMonth": 573,
+    "timeDay": 576,
+    "timeWeek": 544,
+    "timeMonth": 579,
     "timeYear": 521,
     "dailyMinutesDown": {
       "2025-07-09": 24,
-      "2024-10-09": 15,
-      "2024-08-30": 16
+      "2024-10-09": 15
     }
   },
   {
@@ -59,10 +57,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.93%",
-    "time": 741,
-    "timeDay": 445,
-    "timeWeek": 591,
-    "timeMonth": 813,
+    "time": 742,
+    "timeDay": 612,
+    "timeWeek": 573,
+    "timeMonth": 819,
     "timeYear": 727,
     "dailyMinutesDown": {
       "2025-08-19": 8,
@@ -87,9 +85,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.85%",
     "time": 1856,
-    "timeDay": 911,
-    "timeWeek": 2502,
-    "timeMonth": 1923,
+    "timeDay": 1118,
+    "timeWeek": 2414,
+    "timeMonth": 1931,
     "timeYear": 1984,
     "dailyMinutesDown": {
       "2025-08-19": 7,
@@ -114,8 +112,7 @@
       "2024-09-08": 27,
       "2024-09-07": 37,
       "2024-09-06": 29,
-      "2024-09-05": 37,
-      "2024-08-30": 11
+      "2024-09-05": 37
     }
   },
   {
@@ -130,9 +127,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 505,
-    "timeDay": 676,
-    "timeWeek": 617,
-    "timeMonth": 567,
+    "timeDay": 670,
+    "timeWeek": 573,
+    "timeMonth": 574,
     "timeYear": 523,
     "dailyMinutesDown": {
       "2025-08-25": 11,
@@ -149,19 +146,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.h-edu.cz.ico",
     "slug": "test-homepage",
     "status": "degraded",
-    "uptime": "84.62%",
+    "uptime": "84.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.66%",
+    "uptimeYear": "99.93%",
     "time": 660,
-    "timeDay": 579,
-    "timeWeek": 724,
-    "timeMonth": 628,
+    "timeDay": 605,
+    "timeWeek": 701,
+    "timeMonth": 633,
     "timeYear": 678,
-    "dailyMinutesDown": {
-      "2024-08-30": 383
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test API Next",
@@ -175,9 +170,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 487,
-    "timeDay": 762,
-    "timeWeek": 583,
-    "timeMonth": 626,
+    "timeDay": 576,
+    "timeWeek": 552,
+    "timeMonth": 629,
     "timeYear": 506,
     "dailyMinutesDown": {
       "2025-07-09": 10,
@@ -198,10 +193,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 499,
-    "timeDay": 304,
-    "timeWeek": 484,
-    "timeMonth": 451,
-    "timeYear": 525,
+    "timeDay": 389,
+    "timeWeek": 451,
+    "timeMonth": 453,
+    "timeYear": 524,
     "dailyMinutesDown": {
       "2025-07-09": 9,
       "2025-07-01": 18,
