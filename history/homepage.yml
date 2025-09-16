@@ -1,7 +1,7 @@
 url: https://h-edu.cz
-status: degraded
-code: 502
-responseTime: 255
-lastUpdated: 2025-09-16T10:21:48.647Z
+status: up
+code: 200
+responseTime: 803
+lastUpdated: 2025-09-16T10:35:19.388Z
 startTime: 2022-09-02T14:01:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
