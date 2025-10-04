@@ -1,7 +1,7 @@
 url: https://h-edu.cz/content.api/book/book-a?includeChapterContentParts
-status: down
-code: 521
-responseTime: 224
-lastUpdated: 2025-10-03T23:46:29.027Z
+status: up
+code: 200
+responseTime: 520
+lastUpdated: 2025-10-04T00:09:27.328Z
 startTime: 2022-09-05T07:53:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
