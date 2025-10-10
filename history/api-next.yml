@@ -1,7 +1,7 @@
 url: https://api-next.h-edu.cz/content.api/health
-status: degraded
+status: up
 code: 200
-responseTime: 20689
-lastUpdated: 2025-10-10T19:32:53.246Z
+responseTime: 614
+lastUpdated: 2025-10-10T19:46:28.842Z
 startTime: 2022-09-02T14:01:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
