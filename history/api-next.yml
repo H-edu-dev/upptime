@@ -1,7 +1,7 @@
 url: https://api-next.h-edu.cz/content.api/health
-status: down
-code: 520
-responseTime: 685
-lastUpdated: 2026-04-12T07:53:40.535Z
+status: up
+code: 200
+responseTime: 586
+lastUpdated: 2026-04-12T08:44:51.114Z
 startTime: 2022-09-02T14:01:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
