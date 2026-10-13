@@ -73,17 +73,17 @@
     "url": "https://h-edu.cz/content.api/book/book-a?includeChapterContentParts",
     "icon": "https://icons.duckduckgo.com/ip3/h-edu.cz.ico",
     "slug": "api-next-first-chapter",
-    "status": "degraded",
-    "uptime": "99.92%",
-    "uptimeDay": "91.61%",
-    "uptimeWeek": "98.80%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.85%",
-    "time": 810,
-    "timeDay": 21162,
-    "timeWeek": 3746,
-    "timeMonth": 1555,
-    "timeYear": 796,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "84.54%",
+    "uptimeWeek": "97.79%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.83%",
+    "time": 811,
+    "timeDay": 11062,
+    "timeWeek": 3398,
+    "timeMonth": 1536,
+    "timeYear": 797,
     "dailyMinutesDown": {
       "2025-11-18": 229,
       "2025-12-19": 28,
@@ -97,7 +97,7 @@
       "2026-04-12": 25,
       "2026-05-02": 58,
       "2026-08-25": 39,
-      "2026-10-13": 121
+      "2026-10-13": 223
     }
   },
   {
