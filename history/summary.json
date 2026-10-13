@@ -75,10 +75,10 @@
     "slug": "api-next-first-chapter",
     "status": "degraded",
     "uptime": "99.92%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.87%",
+    "uptimeDay": "91.61%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.85%",
     "time": 810,
     "timeDay": 21162,
     "timeWeek": 3746,
@@ -97,7 +97,7 @@
       "2026-04-12": 25,
       "2026-05-02": 58,
       "2026-08-25": 39,
-      "2026-10-13": 2
+      "2026-10-13": 121
     }
   },
   {
